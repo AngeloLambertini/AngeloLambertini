@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my profile!
 
-- 👨🏻‍🎓 Data Analyst graduate from George Brown College
+- 👨🏻‍🎓 Business Analyst graduate from George Brown College
 - 📍 Based in Toronto
 - 💡 Looking to collaborate on data and business analytics projects
 - 📫 How to reach out to me: a.lambertini92@gmail.com - 🔗 https://www.linkedin.com/in/angelo-lambertini/
